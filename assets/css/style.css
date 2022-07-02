@@ -1,0 +1,97 @@
+body.vc {
+    font-family: 'Cabin', sans-serif;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+/* MENU ======== */
+.navbar-dark {
+    transition: all 0.5s ease;
+}
+
+.abajo {
+    background-color: #0dc9f0;
+
+}
+
+.logo img {
+    height: 60px;
+}
+
+.navbar-brand {
+    font-size: 37px;
+    font-weight: 700;
+}
+
+a.nav-link {
+    color: #fff;
+}
+
+/* TEXTOS ======== */
+.title,
+.subtitle {
+    font-size: 2rem;
+}
+
+/* SECCIONES ======== */
+.carousel {
+    height: 100%;
+    max-height: 950px;
+    overflow: hidden;
+}
+
+.serv {
+    width: 100%;
+    margin: 10px 0;
+    background-color: #0dc9f0;
+    border-radius: 30px;
+}
+
+.serv i {
+    padding: 10px 15px;
+    font-size: 1.5rem;
+}
+
+form i {
+    margin-right: 1rem;
+    color: #0dc9f0;
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    color: #0dc9f0;
+}
+
+.card-body {
+    background-color: #0dc9f0;
+}
+
+.tooltip-custom .tooltip-inner {
+    background-color: #0dc9f0;
+}
+
+.bs-tooltip-top .arrow::before,
+.bs-tooltip-auto[x-placement^="top"] .arrow::before {
+    border-top-color: #0dc9f0;
+}
+
+/* FOOTER ======== */
+footer {
+    background-color: #0dc9f0;
+}
+
+footer ul li i::before {
+    font-size: 2rem;
+    margin: 0 0.5rem;
+}
+
+footer ul li i:hover {
+    color: #000;
+    transition-duration: 0.5s;
+}
+
+@media (max-width: 992px) {
+    .navbar {
+        padding: 0 20px;
+    }
+}
