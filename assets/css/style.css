@@ -10,7 +10,7 @@ body.vc {
 }
 
 .abajo {
-    background-color: #bda102;
+    background-color: #0298bd;
 
 }
 
@@ -54,12 +54,12 @@ a.nav-link {
 
 form i {
     margin-right: 1rem;
-    color: #0dc9f0;
+    color: #4b96d6;
 }
 
 .form-label {
     margin-bottom: 0.5rem;
-    color: #0dc9f0;
+    color: #4b96d6;
 }
 
 .card-body {
