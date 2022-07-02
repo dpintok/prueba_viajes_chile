@@ -1,5 +1,5 @@
 body.vc {
-    font-family: 'Cabin', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: #ffffff;
     background-color: #000000;
 }
@@ -10,7 +10,7 @@ body.vc {
 }
 
 .abajo {
-    background-color: #0298bd;
+    background-color: #2974b5;
 
 }
 
@@ -19,8 +19,9 @@ body.vc {
 }
 
 .navbar-brand {
-    font-size: 37px;
-    font-weight: 700;
+    font-family: 'Fascinate', cursive;
+    font-size: 50px;
+    font-weight: 900;
 }
 
 a.nav-link {
@@ -77,6 +78,7 @@ form i {
 
 /* FOOTER ======== */
 footer {
+    font-family: 'Fascinate', cursive;
     background-color: #2974b5;
 }
 
